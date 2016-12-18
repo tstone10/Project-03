@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Britannic Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/britannic-medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Britannic Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/britannic-bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Britannic D Ultra';
+    font-style: normal;
+    font-weight: 800;
+    src: url("../fonts/britannic-ultra.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Gentium Book Basic';
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/gentium_book_basic-regular.ttf") format("truetype");
+}
